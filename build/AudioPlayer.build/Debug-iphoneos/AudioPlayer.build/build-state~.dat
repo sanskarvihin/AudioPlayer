@@ -1,0 +1,294 @@
+TAudioPlayer
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C0473C400000000001AA470
+t1275360196
+s1746032
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/01 Jab Mila Tu - www.Songs.PK.mp3
+c000000004BF9B1F80000000000795F69
+t1274655224
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/01 Jab Mila Tu.mp3
+c000000004BF9B1F80000000000795F69
+t1274655224
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/02 Bin Tere - www.Songs.PK.mp3
+c000000004BF9B1FA00000000009CCC94
+t1274655226
+s10275988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3
+c000000004BF9B1FA00000000009CCC94
+t1274655226
+s10275988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3
+c000000004BF9B1F80000000000795F69
+t1274655224
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/AudioPlayer_Prefix.pch
+c000000004C68D6FB00000000000000BF
+t1281939195
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.h
+c000000004C68D6FB0000000000000155
+t1281939195
+s341
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m
+c000000004C68D6FB00000000000009D2
+t1281939195
+s2514
+i"AudioPlayerAppDelegate.h"
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.h
+c000000004C68DD2E0000000000000224
+t1281940782
+s548
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m
+c000000004C68DDE0000000000000087E
+t1281940960
+s2174
+i"MyPlayer.h"
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+c000000004C68DCF80000000000001853
+t1281940728
+s6227
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+c000000004C68D6FB000000000000211C
+t1281939195
+s8476
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/AudioPlayer
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/AudioPlayer.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/AudioPlayerAppDelegate.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/MyPlayer.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/AudioPlayer
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/AudioPlayer.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/AudioPlayerAppDelegate.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/MyPlayer.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app.dSYM
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/01 Jab Mila Tu - www.Songs.PK.mp3
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/01 Jab Mila Tu.mp3
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/02 Bin Tere - www.Songs.PK.mp3
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/AudioPlayer
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/Bin Tere.mp3
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/Info.plist
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/Jab Mila Tu.mp3
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/MainWindow.nib
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/MyPlayer.nib
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/PkgInfo
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/ResourceRules.plist
+t2
+s0
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m
+c000000004C68D6FB000000000000016F
+t1281939195
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-amfwiwomqasdnmaubbnygpbhjbty/AudioPlayer_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-fvmaozubojohmmdqczzdaiuxhckn/AudioPlayer_Prefix.pch.gch
+t2
+s0
+
+NAudioPlayer-Info.plist
+c000000004C68D6FB000000000000038D
+t1281939195
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303633794#303633794#0(140"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.AudioPlayer' could not be found1(4@132"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.AudioPlayer' could not be found303633794#18446744073709551615#0#0(1@0"0(0#1#0"8625034432#0"0#
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/AudioPlayerAppDelegate.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/MyPlayer.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/main.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/AudioPlayerAppDelegate.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/MyPlayer.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/main.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+r0
+
+CCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+r0
+
+CCpResource "build/Debug-iphoneos/AudioPlayer.app/01 Jab Mila Tu - www.Songs.PK.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/01 Jab Mila Tu - www.Songs.PK.mp3"
+r0
+
+CCpResource "build/Debug-iphoneos/AudioPlayer.app/01 Jab Mila Tu.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/01 Jab Mila Tu.mp3"
+r0
+
+CCpResource "build/Debug-iphoneos/AudioPlayer.app/02 Bin Tere - www.Songs.PK.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/02 Bin Tere - www.Songs.PK.mp3"
+r0
+
+CCpResource "build/Debug-iphoneos/AudioPlayer.app/Bin Tere.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3"
+r0
+
+CCpResource "build/Debug-iphoneos/AudioPlayer.app/Jab Mila Tu.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3"
+r0
+
+CCpResource build/Debug-iphoneos/AudioPlayer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/AudioPlayer normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app.dSYM /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/AudioPlayer
+r0
+
+CLd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv6/AudioPlayer normal armv6
+r0
+
+CLd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphoneos/AudioPlayer.build/Objects-normal/armv7/AudioPlayer normal armv7
+r0
+
+CProcessInfoPlistFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app/Info.plist AudioPlayer-Info.plist
+r0
+
+CProcessPCH /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-amfwiwomqasdnmaubbnygpbhjbty/AudioPlayer_Prefix.pch.gch AudioPlayer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-fvmaozubojohmmdqczzdaiuxhckn/AudioPlayer_Prefix.pch.gch AudioPlayer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphoneos/AudioPlayer.app
+r0
+

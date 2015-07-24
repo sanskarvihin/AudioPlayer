@@ -1,0 +1,368 @@
+TAudioPlayer
+v7
+r0
+t303647597.141997
+cCheck dependencies
+cProcessInfoPlistFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Info.plist AudioPlayer-Info.plist
+cCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+cCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+cCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib
+cProcessPCH /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch.gch AudioPlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/main.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayerAppDelegate.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/MyPlayer.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/SongsData.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer normal i386
+cGenerateDSYMFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app.dSYM /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer
+cTouch /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C41C3150000000000000132
+t1279378197
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3
+c000000004BF9B1FA00000000009CCC94
+t1274655226
+s10275988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3
+c000000004BF9B1F80000000000795F69
+t1274655224
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/AudioPlayer_Prefix.pch
+c000000004C68D6FB00000000000000BF
+t1281939195
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Bin Tere.mp3
+c000000004BF9B1FA00000000009CCC94
+t1274655226
+s10275988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.h
+c000000004C68DF1B0000000000000158
+t1281941275
+s344
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m
+c000000004C6913E50000000000001228
+t1281954789
+s4648
+i"AudioPlayerAppDelegate.h"
+i"SongsData.h"
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.h
+c000000004C68FF650000000000000225
+t1281949541
+s549
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m
+c000000004C68DF670000000000000880
+t1281941351
+s2176
+i"MyPlayer.h"
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+c000000004C68DE9300000000000057C6
+t1281941139
+s22470
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.h
+c000000004C69086E00000000000001A3
+t1281951854
+s419
+i<UIKit/UIKit.h>
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m
+c000000004C690A200000000000000D78
+t1281952288
+s3448
+i"SongsData.h"
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib
+c000000004C6912C200000000000047F4
+t1281954498
+s18420
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Jab Mila Tu.mp3
+c000000004BF9B1F80000000000795F69
+t1274655224
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+c000000004C69102100000000000044D4
+t1281953825
+s17620
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayer.LinkFileList
+c000000004C6913EA000000000000024B
+t1281954794
+s587
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayerAppDelegate.o
+t1281954796
+s47616
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/MyPlayer.o
+t1281954797
+s41308
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/SongsData.o
+t1281954797
+s45796
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/main.o
+t1281954796
+s6324
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app
+t1281954797
+s272
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app.dSYM
+t1281954797
+s102
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer
+t1281954797
+s24572
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Bin Tere.mp3
+t1281941008
+s10275988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Info.plist
+t1281954794
+s607
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Jab Mila Tu.mp3
+t1281941008
+s7954281
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/MainWindow.nib
+t1281954795
+s988
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/MyPlayer.nib
+t1281954795
+s1654
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/PkgInfo
+t1281954794
+s8
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/SongsData.nib
+t1281954795
+s1151
+
+N/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m
+c000000004C68D6FB000000000000016F
+t1281939195
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch.gch
+t1281954796
+s15232016
+
+NAudioPlayer-Info.plist
+c000000004C68D6FB000000000000038D
+t1281939195
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303647594#303647594#0(0"0(0#1#0"8626690912#0"0#
+
+CCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayerAppDelegate.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303647596.847235
+e303647596.960853
+r1
+xCompileC
+xbuild/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayerAppDelegate.o
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m303647596#303647596#0(0"0(0#0#81"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m8632979232#2135"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-generated-files.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-own-target-headers.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-all-target-headers.hmap -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-project-headers.hmap -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/include -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources/i386 -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources -include /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/AudioPlayerAppDelegate.m -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayerAppDelegate.o0#
+
+CCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/MyPlayer.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303647596.925601
+e303647597.043649
+r1
+xCompileC
+xbuild/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/MyPlayer.o
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m: In function '-[MyPlayer viewDidLoad]':
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:37: warning: receiver 'AVAudioPlayer' is a forward class and corresponding @interface may not exist
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: no '-initWithContentsOfURL:error:' method found
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: (Messages without a matching method signature
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: will be assumed to return 'id' and accept
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: '...' as arguments.)
+o/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:41: warning: no '-prepareToPlay' method found
+lSLF07#2@75"Compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m303647596#303647597#0(871"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m: In function '-[MyPlayer viewDidLoad]':/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:37: warning: receiver 'AVAudioPlayer' is a forward class and corresponding @interface may not exist/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: no '-initWithContentsOfURL:error:' method found/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: (Messages without a matching method signature/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: will be assumed to return 'id' and accept/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:38: warning: '...' as arguments.)/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m:41: warning: no '-prepareToPlay' method found4(22@86"Receiver 'AVAudioPlayer' is a forward class and corresponding @interface may not exist303647596#108#168#0(6@67"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m303634151#37#0#37#0#0"0(22@47"No '-initWithContentsOfURL:error:' method found303647596#276#129#0(6@67"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m303634151#38#0#38#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)303647596#405#127#0(6@67"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m303634151#38#0#38#0#0"0(22@32"No '-prepareToPlay' method found303647596#757#114#0(6@67"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m303634151#41#0#41#0#19"no '*' method found0(0#0#67"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m8631526816#2107"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-generated-files.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-own-target-headers.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-all-target-headers.hmap -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-project-headers.hmap -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/include -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources/i386 -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources -include /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.m -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/MyPlayer.o0#
+
+CCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/SongsData.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303647596.961228
+e303647597.074403
+r1
+xCompileC
+xbuild/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/SongsData.o
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m303647596#303647597#0(0"0(0#0#68"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m8631239072#2109"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-generated-files.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-own-target-headers.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-all-target-headers.hmap -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-project-headers.hmap -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/include -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources/i386 -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources -include /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.m -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/SongsData.o0#
+
+CCompileC build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/main.o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303647596.845163
+e303647596.925455
+r1
+xCompileC
+xbuild/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/main.o
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m303647596#303647596#0(0"0(0#0#55"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m8633418464#2091"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-generated-files.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-own-target-headers.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-all-target-headers.hmap -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-project-headers.hmap -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/include -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources/i386 -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources -include /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/main.m -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+s303647594.842751
+e303647595.487141
+r1
+xCompileXIB
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib
+lSLF07#2@31"CompileXIB Classes/MyPlayer.xib303647594#303647595#0(0"0(0#0#69"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib8633291360#608"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/MyPlayer.nib /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/MyPlayer.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib
+s303647595.389871
+e303647595.922822
+r1
+xCompileXIB
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib
+lSLF07#2@32"CompileXIB Classes/SongsData.xib303647595#303647595#0(0"0(0#0#70"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib8625230528#610"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/SongsData.nib /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/Classes/SongsData.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+s303647594.841912
+e303647595.389759
+r1
+xCompileXIB
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303647594#303647595#0(0"0(0#0#63"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib8633447968#604"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/MainWindow.nib /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/AudioPlayer.app/Bin Tere.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3"
+s303633808.237514
+e303633808.851378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AudioPlayer.app/Bin Tere.mp3
+x../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3
+lSLF07#2@93"Copy ../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3303633808#303633808#0(0"0(0#0#137"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp38627246432#568"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Bin Tere.mp3" /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app0#
+
+CCpResource "build/Debug-iphonesimulator/AudioPlayer.app/Bin Tere.mp3" "Bin Tere.mp3"
+r0
+
+CCpResource "build/Debug-iphonesimulator/AudioPlayer.app/Jab Mila Tu.mp3" "../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3"
+s303633808.236650
+e303633808.520608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AudioPlayer.app/Jab Mila Tu.mp3
+x../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3
+lSLF07#2@96"Copy ../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3303633808#303633808#0(0"0(0#0#140"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp38627493248#571"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/../../../Music/iTunes/iTunes Media/Music/Vishal & Shekher/I Hate Luv Storys/Jab Mila Tu.mp3" /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app0#
+
+CCpResource "build/Debug-iphonesimulator/AudioPlayer.app/Jab Mila Tu.mp3" "Jab Mila Tu.mp3"
+r0
+
+CGenerateDSYMFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app.dSYM /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer
+s303647597.106661
+e303647597.138196
+r1
+xGenerateDSYMFile
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app.dSYM
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/AudioPlayer.app.dSYM build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer303647597#303647597#0(0"0(0#0#104"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer8626090240#425"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app.dSYM0#
+
+CLd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer normal i386
+s303647597.074526
+e303647597.106545
+r1
+xLd
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer
+xnormal
+xi386
+lSLF07#2@109"Link /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer303647597#303647597#0(0"0(0#0#0"8626974304#994"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -filelist /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/Objects-normal/i386/AudioPlayer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/AudioPlayer0#
+
+CProcessInfoPlistFile /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Info.plist AudioPlayer-Info.plist
+s303647594.836581
+e303647594.841783
+r1
+xProcessInfoPlistFile
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Info.plist
+xAudioPlayer-Info.plist
+lSLF07#2@30"Process AudioPlayer-Info.plist303647594#303647594#0(0"0(0#0#71"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/AudioPlayer-Info.plist8626118336#521"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AudioPlayer-Info.plist -genpkginfo /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app/Info.plist0#
+
+CProcessPCH /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch.gch AudioPlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303647595.922981
+e303647596.844766
+r1
+xProcessPCH
+x/var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch.gch
+xAudioPlayer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile AudioPlayer_Prefix.pch303647595#303647596#0(0"0(0#0#71"/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/AudioPlayer_Prefix.pch8631193440#1969"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-generated-files.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-own-target-headers.hmap -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-all-target-headers.hmap -iquote /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/AudioPlayer-project-headers.hmap -F/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/include -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources/i386 -I/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/AudioPlayer.build/Debug-iphonesimulator/AudioPlayer.build/DerivedSources -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/AudioPlayer_Prefix.pch -o /var/folders/lg/lgIKL6A-FWaijdz7R3oN6E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioPlayer_Prefix-dkaaingeferhxlbyhdxfrejydffi/AudioPlayer_Prefix.pch.gch0#
+
+CTouch /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app
+s303647597.138334
+e303647597.141940
+r1
+xTouch
+x/Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app
+lSLF07#2@98"Touch /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app303647597#303647597#0(0"0(0#0#0"8635510144#302"    cd /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/amolitrivedi/Desktop/JavalApp/AudioPlayer/build/Debug-iphonesimulator/AudioPlayer.app0#
+

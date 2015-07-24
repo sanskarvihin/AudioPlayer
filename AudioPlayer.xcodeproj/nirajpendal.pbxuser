@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	038B930E1219147800723917 /* MyPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 498}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	038B930F1219147800723917 /* MyPlayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1144}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{813, 978}";
+		};
+	};
+	038B93451219215F00723917 /* SongsData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 498}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 544}";
+		};
+	};
+	038B93461219215F00723917 /* SongsData.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"(UIViewController *)rootViewController\";\n            r = \"{879, 42}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5150}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2184}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1489, 1331}";
+		};
+	};
+	1D3623240D0F684500981E51 /* AudioPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1091, 516}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AudioPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1807}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2816, 1652}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AudioPlayer */ = {
+		activeExec = 0;
+		executables = (
+			8095354612424D4200001C2D /* AudioPlayer */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8095354612424D4200001C2D /* AudioPlayer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AudioPlayer */;
+		codeSenseManager = 8095356612424D5800001C2D /* Code sense */;
+		executables = (
+			8095354612424D4200001C2D /* AudioPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					913,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316001030;
+			PBXWorkspaceStateSaveDate = 316001030;
+		};
+		perUserProjectItems = {
+			80403C6F12D5CB1900E819B1 /* PBXTextBookmark */ = 80403C6F12D5CB1900E819B1 /* PBXTextBookmark */;
+			80403C7012D5CB1900E819B1 /* PBXTextBookmark */ = 80403C7012D5CB1900E819B1 /* PBXTextBookmark */;
+			80403C7112D5CB1900E819B1 /* PBXTextBookmark */ = 80403C7112D5CB1900E819B1 /* PBXTextBookmark */;
+			80403C7212D5CB1900E819B1 /* PBXTextBookmark */ = 80403C7212D5CB1900E819B1 /* PBXTextBookmark */;
+			80403C7312D5CB1900E819B1 /* PBXTextBookmark */ = 80403C7312D5CB1900E819B1 /* PBXTextBookmark */;
+			8095355412424D5800001C2D /* PBXTextBookmark */ = 8095355412424D5800001C2D /* PBXTextBookmark */;
+			8095355512424D5800001C2D /* PBXTextBookmark */ = 8095355512424D5800001C2D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8095356512424D5800001C2D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	80403C6F12D5CB1900E819B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 038B930E1219147800723917 /* MyPlayer.h */;
+		name = "MyPlayer.h: 13";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	80403C7012D5CB1900E819B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 038B93461219215F00723917 /* SongsData.m */;
+		name = "SongsData.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 1530;
+	};
+	80403C7112D5CB1900E819B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 038B93451219215F00723917 /* SongsData.h */;
+		name = "SongsData.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	80403C7212D5CB1900E819B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 038B930F1219147800723917 /* MyPlayer.m */;
+		name = "MyPlayer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 813;
+	};
+	80403C7312D5CB1900E819B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 038B930F1219147800723917 /* MyPlayer.m */;
+		name = "MyPlayer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 813;
+	};
+	8095354612424D4200001C2D /* AudioPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AudioPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8095355412424D5800001C2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AudioPlayerAppDelegate.m */;
+		name = "AudioPlayerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1652;
+		vrLoc = 2816;
+	};
+	8095355512424D5800001C2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AudioPlayerAppDelegate.h */;
+		name = "AudioPlayerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	8095356512424D5800001C2D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8095356612424D5800001C2D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
